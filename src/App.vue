@@ -9,7 +9,9 @@ export default {
 </script>
 
 <template>
-  <Tabellone />
+  <main class="h-100">
+    <Tabellone />
+  </main>
 </template>
 
 <style scoped></style>
